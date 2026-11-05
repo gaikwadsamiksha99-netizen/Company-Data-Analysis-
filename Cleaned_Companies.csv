@@ -1,0 +1,101 @@
+Rank,Name,Industry,Revenue (INR Crores),Revenue growth,Employees,Headquarters,Revenue per Employee INR,Revenue Share (%),Revenue Category,Employee Size Category,Growth Category,Rank Category
+1,Walmart,Retail,6441437.115,5.1,2100000,"Bentonville, Arkansas",30673510.07142857,5.218291057092733,High Revenue,Large Employer,Moderate Growth,Top 10
+2,Amazon,Retail and cloud computing,6034454.181,11.0,1556000,"Seattle, Washington",38781839.20951157,4.888588947615326,High Revenue,Large Employer,Moderate Growth,Top 10
+3,UnitedHealth Group,Healthcare,3786229.6020000004,7.7,400000,"Minnetonka, Minnesota",94655740.05000003,3.0672732993398752,Medium Revenue,Small Employer,Moderate Growth,Top 10
+4,Apple,Technology,3698800.065,2.0,164000,"Cupertino, California",225536589.3292683,2.996445506891131,Medium Revenue,Small Employer,Low Growth,Top 10
+5,CVS Health,Healthcare,3526400.3310000002,4.2,259500,"Woonsocket, Rhode Island",135892112.9479769,2.856782264959852,Medium Revenue,Small Employer,Low Growth,Top 10
+6,Berkshire Hathaway,Conglomerate,3513384.747,1.9,392400,"Omaha, Nebraska",89535798.85321102,2.8462381729540667,Medium Revenue,Small Employer,Low Growth,Top 10
+7,Alphabet,Technology and cloud computing,3310820.262,13.9,183323,"Mountain View, California",180600375.40297726,2.6821380782564725,Medium Revenue,Small Employer,Moderate Growth,Top 10
+8,Exxon Mobil,Petroleum,3306819.105,1.5,60900,"Spring, Texas",542991642.8571428,2.6788966895076016,Medium Revenue,Small Employer,Low Growth,Top 10
+9,McKesson Corporation,Healthcare,2922367.509,11.7,48000,"Irving, Texas",608826564.375,2.3674475067436975,Medium Revenue,Small Employer,Moderate Growth,Top 10
+10,Cencora,Pharmacy wholesale,2780558.1810000003,12.1,44000,"Conshohocken, Pennsylvania",631945041.1363637,2.252565946169039,Medium Revenue,Small Employer,Moderate Growth,Top 10
+11,JPMorgan Chase,Financials,2638171.854,16.5,317233,"New York City, New York",83161961.52354893,2.137216951283076,Medium Revenue,Small Employer,High Growth,Rank 11-50
+12,Costco Wholesale,Retail,2406870.927,5.0,333000,"Issaquah, Washington",72278406.21621622,1.949837095311082,Low Revenue,Small Employer,Low Growth,Rank 11-50
+13,Cigna,Health insurance,2337517.539,26.6,72398,"Bloomfield, Connecticut",322870457.60932624,1.8936530236639766,Low Revenue,Small Employer,High Growth,Rank 11-50
+14,Microsoft,Technology and cloud computing,2318608.998,15.7,228000,"Redmond, Washington",101693377.10526316,1.8783349713968513,Low Revenue,Small Employer,High Growth,Rank 11-50
+15,Cardinal Health,Healthcare,2145556.593,10.6,48411,"Dublin, Ohio",443196090.3513664,1.7381429922937701,Low Revenue,Small Employer,Moderate Growth,Rank 11-50
+16,Chevron,Petroleum,1918209.5280000002,0.9,45298,"Houston, Texas",423464507.9252947,1.553966210782836,Low Revenue,Small Employer,Low Growth,Rank 11-50
+17,Bank of America,Financials,1820233.2060000002,11.9,213193,"Charlotte, North Carolina",85379595.29628085,1.4745943321520782,Low Revenue,Small Employer,Moderate Growth,Rank 11-50
+18,General Motors,Automotive,1773013.878,9.1,162000,"Detroit, Michigan",109445301.1111111,1.4363413472008577,Low Revenue,Small Employer,Moderate Growth,Rank 11-50
+19,Ford Motor,Automotive,1749839.3280000002,5.0,171000,"Dearborn, Michigan",102329785.2631579,1.4175673461731153,Low Revenue,Small Employer,Low Growth,Rank 11-50
+20,Elevance Health,Healthcare,1674347.049,3.3,103679,"Indianapolis, Indiana",161493364.037076,1.356410079968049,Low Revenue,Small Employer,Low Growth,Rank 11-50
+21,Citigroup,Financials,1615190.463,8.9,227855,"New York City, New York",70886768.47117685,1.3084865687731504,Low Revenue,Small Employer,Moderate Growth,Rank 11-50
+22,Meta Platforms,Technology,1556014.959,21.9,74067,"Menlo Park, California",210082082.30386,1.260547731863127,Low Revenue,Small Employer,High Growth,Rank 11-50
+23,Centene,Healthcare,1542488.5890000002,5.9,60500,"St. Louis, Missouri",254956791.57024798,1.2495898455489756,Low Revenue,Small Employer,Moderate Growth,Rank 11-50
+24,The Home Depot,Retail,1508842.926,4.5,470100,"Atlanta, Georgia",32096211.997447353,1.2223330611997183,Low Revenue,Small Employer,Low Growth,Rank 11-50
+25,Fannie Mae,Financials,1444105.53,8.1,8200,"Washington, D.C.",1761104304.878049,1.169888464043037,Low Revenue,Small Employer,Moderate Growth,Rank 11-50
+26,Walgreens Boots Alliance,Pharmaceutical,1396697.022,6.2,252500,"Deerfield, Illinois",55314733.544554465,1.1314822219405696,Low Revenue,Small Employer,Moderate Growth,Rank 11-50
+27,Kroger,Retail,1391636.457,-1.9,409000,"Cincinnati, Ohio",34025341.246943764,1.1273825931447155,Low Revenue,Small Employer,Negative Growth,Rank 11-50
+28,Phillips 66,Petroleum,1376246.664,-2.9,13200,"Houston, Texas",1042611109.0909092,1.1149151238907822,Low Revenue,Small Employer,Negative Growth,Rank 11-50
+29,Marathon Petroleum,Petroleum,1328157.108,-6.6,18300,"Findlay, Ohio",725768911.4754099,1.075957156043826,Low Revenue,Small Employer,Negative Growth,Rank 11-50
+30,Verizon Communications,Telecommunications,1274959.692,0.6,99600,"New York City, New York",128008001.20481928,1.032861245113204,Low Revenue,Small Employer,Low Growth,Rank 11-50
+31,Nvidia,Technology,1234371.1230000001,114.2,36000,"Santa Clara, California",342880867.50000006,0.9999799233131866,Low Revenue,Small Employer,High Growth,Rank 11-50
+32,Goldman Sachs Group,Financials,1199902.527,17.0,46500,"New York City, New York",258043554.19354838,0.9720564703560055,Low Revenue,Small Employer,High Growth,Rank 11-50
+33,Wells Fargo,Financials,1186130.223,8.7,217502,"San Francisco, California",54534221.4324466,0.960899349745233,Low Revenue,Small Employer,Moderate Growth,Rank 11-50
+34,Valero Energy,Petroleum,1172670.066,-10.8,9910,"San Antonio, Texas",1183319945.5095866,0.9499951034340176,Low Revenue,Small Employer,Negative Growth,Rank 11-50
+35,Comcast,Telecommunications,1170371.529,1.8,182000,"Philadelphia, Pennsylvania",64306127.96703297,0.9481330290463681,Low Revenue,Small Employer,Low Growth,Rank 11-50
+36,State Farm Insurance,Financials,1162993.509,18.0,67381,"Bloomington, Illinois",172599621.40662798,0.9421560001477399,Low Revenue,Small Employer,High Growth,Rank 11-50
+37,AT&T,Conglomerate and telecommunications,1157176.224,-0.1,140990,"Dallas, Texas",82075056.67068586,0.9374433427468982,Low Revenue,Small Employer,Negative Growth,Rank 11-50
+38,Freddie Mac,Financials,1154489.868,13.0,8090,"McLean, Virginia",1427057933.250927,0.9352670911991927,Low Revenue,Small Employer,Moderate Growth,Rank 11-50
+39,Humana,Health insurance,1113901.299,10.7,65680,"Louisville, Kentucky",169595203.8672351,0.9023857693991753,Low Revenue,Small Employer,Moderate Growth,Rank 11-50
+40,Morgan Stanley,Financials,1014808.8150000001,11.5,80478,"New York City, New York",126097668.30686647,0.8221096735760609,Low Revenue,Small Employer,Moderate Growth,Rank 11-50
+41,Target,Retail,1008007.794,-0.8,440000,"Minneapolis, Minnesota",22909268.045454547,0.8166000789887357,Low Revenue,Small Employer,Negative Growth,Rank 11-50
+42,StoneX Group,Financials,944840.592,64.1,4500,"New York City, New York",2099645760.0,0.7654275161874033,Low Revenue,Small Employer,High Growth,Rank 11-50
+43,Tesla,Automotive and energy,924049.71,0.9,125665,"Austin, Texas",73532782.39764453,0.7485845552653716,Low Revenue,Small Employer,Low Growth,Rank 11-50
+44,Dell Technologies,Technology,903968.2530000001,8.1,108000,"Round Rock, Texas",83700764.16666669,0.7323163086605157,Low Revenue,Small Employer,Moderate Growth,Rank 11-50
+45,PepsiCo,Beverage,868846.9859999999,0.4,319000,"Purchase, New York",27236582.63322884,0.7038641185315327,Low Revenue,Small Employer,Low Growth,Rank 11-50
+46,Walt Disney,Media,864183.699,2.8,205040,"Burbank, California",42147078.570035115,0.7000863297532973,Low Revenue,Small Employer,Low Growth,Rank 11-50
+47,United Parcel Service,Transportation,861431.1300000001,0.1,372180,"Atlanta, Georgia",23145551.346122846,0.6978564382026553,Low Revenue,Small Employer,Low Growth,Rank 11-50
+48,Johnson & Johnson,Pharmaceutical,840157.839,-6.7,138100,"New Brunswick, New Jersey",60836918.10282404,0.6806226715449439,Low Revenue,Small Employer,Negative Growth,Rank 11-50
+49,FedEx,Transportation,829488.087,-2.7,422100,"Memphis, Tennessee",19651459.06183369,0.6719789682146201,Low Revenue,Small Employer,Negative Growth,Rank 11-50
+50,Archer Daniels Midland,Food industry,809028.27,-8.9,43213,"Chicago, Illinois",187218723.53227037,0.6554042073072702,Low Revenue,Small Employer,Negative Growth,Rank 11-50
+51,Procter & Gamble,Consumer products manufacturing,794924.9010000001,2.5,108000,"Cincinnati, Ohio",73604157.50000001,0.6439788866818157,Low Revenue,Small Employer,Low Growth,Rank 51-100
+52,Lowe's,Retail,791472.366,-3.1,215500,"Mooresville, North Carolina",36727255.96287703,0.6411819436715601,Low Revenue,Small Employer,Negative Growth,Rank 51-100
+53,Energy Transfer Partners,Petroleum,781984.9890000001,5.2,16248,"Dallas, Texas",481280766.2481537,0.6334960975365291,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+54,RTX,Aerospace and defense,763710.2010000001,17.1,186000,"Arlington County, Virginia",41059688.22580646,0.618691456726081,Low Revenue,Small Employer,High Growth,Rank 51-100
+55,Albertsons,Retail,749512.242,2.0,196650,"Boise, Idaho",38114021.96796339,0.6071895075250027,Low Revenue,Small Employer,Low Growth,Rank 51-100
+56,Sysco,Food processing,745785.396,3.3,76000,"Houston, Texas",98129657.36842103,0.6041703416454391,Low Revenue,Small Employer,Low Growth,Rank 51-100
+57,Progressive,Insurance,712943.748,21.4,66308,"Mayfield Village, Ohio",107520019.9071002,0.5775649001889813,Low Revenue,Small Employer,High Growth,Rank 51-100
+58,American Express,Financials,701867.259,10.1,75100,"New York City, New York",93457690.94540612,0.5685916939834766,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+59,Lockheed Martin,Aerospace and defense,671995.737,5.1,121000,"Bethesda, Maryland",55536837.76859504,0.5443923898015947,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+60,MetLife,Financials,671456.574,6.1,45000,"New York City, New York",149212572.0,0.5439556069205412,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+61,HCA Healthcare,Healthcare,667833.777,8.7,271000,"Nashville, Tennessee",24643312.804428045,0.5410207324741635,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+62,Prudential Financial,Financials,665960.895,30.4,37936,"Newark, New Jersey",175548527.7836356,0.5395034866768194,Low Revenue,Small Employer,High Growth,Rank 51-100
+63,Boeing,Aerospace and defense,629184.3030000001,-14.5,172000,"Arlington County, Virginia",36580482.732558146,0.5097102964744266,Low Revenue,Small Employer,Negative Growth,Rank 51-100
+64,Caterpillar,Machinery,613028.331,-3.4,112900,"Irving, Texas",54298346.41275465,0.4966221357579431,Low Revenue,Small Employer,Negative Growth,Rank 51-100
+65,Merck,Pharmaceutical industry,606965.112,6.7,74000,"Kenilworth, New Jersey",82022312.43243243,0.49171024406048075,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+66,Allstate,Insurance,606378.654,12.3,55200,"Northfield Township, Illinois",109851205.43478261,0.4912351468916154,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+67,Pfizer,Pharmaceutical industry,601847.7930000001,8.8,81000,"New York City, New York",74302196.66666667,0.4875646381192527,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+68,IBM,Technology and cloud computing,593580.6270000001,1.4,284500,"Armonk, New York",20863993.919156417,0.48086730060976424,Low Revenue,Small Employer,Low Growth,Rank 51-100
+69,New York Life Insurance Company,Insurance,592502.301,15.3,15131,"New York City, New York",391581720.3092988,0.47999373484765695,Low Revenue,Small Employer,High Growth,Rank 51-100
+70,Delta Air Lines,Airline,583081.137,6.2,103000,"Atlanta, Georgia",56609819.126213595,0.47236152871556253,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+71,Publix Super Markets,Retail,569214.243,4.6,255000,"Lakeland, Florida",22322127.17647059,0.4611277795291664,Low Revenue,Small Employer,Low Growth,Rank 51-100
+72,Nationwide Mutual Insurance Company,Financials,554732.5140000001,7.4,22453,"Columbus, Ohio",247063872.97911197,0.449395944601218,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+73,TD Synnex,Information Technology,552897.4680000001,1.6,25750,"Clearwater, Florida",214717463.3009709,0.44790935023412337,Low Revenue,Small Employer,Low Growth,Rank 51-100
+74,United Airlines Holdings,Airline,539758.917,6.2,107300,"Chicago, Illinois",50303720.130475305,0.43726564108002763,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+75,ConocoPhillips,Petroleum,538718.427,-2.8,11800,"Houston, Texas",456541039.8305085,0.43642272674816984,Low Revenue,Small Employer,Negative Growth,Rank 51-100
+76,TJX,Retail,533109.24,4.0,364000,"Framingham, Massachusetts",14645858.241758242,0.4318786522136998,Low Revenue,Small Employer,Low Growth,Rank 51-100
+77,AbbVie,Pharmaceutical,532863.3060000001,3.7,55000,"Lake Bluff, Illinois",96884237.45454547,0.431679417917079,Low Revenue,Small Employer,Low Growth,Rank 51-100
+78,Enterprise Products Partners,Petroleum,531775.521,13.1,7800,"Houston, Texas",681763488.4615383,0.4307981892974094,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+79,Charter Communications,Telecommunications,521049.015,0.9,94500,"Stamford, Connecticut",55137461.9047619,0.42210850882171147,Low Revenue,Small Employer,Low Growth,Rank 51-100
+80,Performance Food Group,Food processing,517227.579,2.5,36815,"Richmond, Virginia",140493706.09805787,0.41901271436652454,Low Revenue,Small Employer,Low Growth,Rank 51-100
+81,American Airlines Group,Airline,512781.84900000005,2.7,133300,"Fort Worth, Texas",38468255.73893473,0.415411171312223,Low Revenue,Small Employer,Low Growth,Rank 51-100
+82,Capital One Financial,Financials,510199.542,9.0,52600,"Tysons, Virginia",96996110.64638783,0.4133192111977031,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+83,Cisco Systems,Telecom hardware manufacturing,508922.57700000005,-5.6,90400,"San Jose, California",56296745.24336283,0.4122847254267867,Low Revenue,Small Employer,Negative Growth,Rank 51-100
+84,HP,Technology,506614.58100000006,-0.3,58000,"Palo Alto, California",87347341.55172415,0.4104149881815748,Low Revenue,Small Employer,Negative Growth,Rank 51-100
+85,Tyson Foods,Food processing,504249.83100000006,0.8,138000,"Springdale, Arkansas",36539842.82608696,0.4084992737909888,Low Revenue,Small Employer,Low Growth,Rank 51-100
+86,Intel,Technology,502282.359,-2.1,108900,"Santa Clara, California",46123265.2892562,0.40690539941802123,Low Revenue,Small Employer,Negative Growth,Rank 51-100
+87,Oracle,Technology,500958.09900000005,6.0,159000,"Austin, Texas",31506798.679245282,0.40583259935929317,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+88,Broadcom,Technology,495954.288,46.4,37000,"Palo Alto, California",134041699.45945945,0.40177894770881317,Low Revenue,Small Employer,High Growth,Rank 51-100
+89,Deere,Agriculture manufacturing,489181.64400000003,-15.6,55524,"Moline, Illinois",88102738.2753404,0.39629234169417504,Low Revenue,Small Employer,Negative Growth,Rank 51-100
+90,Nike,Apparel,485823.699,0.3,78400,"Beaverton, Oregon",61967308.54591837,0.393572027259543,Low Revenue,Small Employer,Low Growth,Rank 51-100
+91,Liberty Mutual Insurance Group,Insurance,477007.911,-4.1,40000,"Boston, Massachusetts",119251977.75,0.38643024401143844,Low Revenue,Small Employer,Negative Growth,Rank 51-100
+92,Plains GP Holdings,Petroleum,473640.50700000004,2.8,4200,"Houston, Texas",1127715492.857143,0.38370226671924407,Low Revenue,Small Employer,Low Growth,Rank 51-100
+93,USAA,Insurance,459329.04000000004,14.3,38018,"San Antonio, Texas",120818833.18428113,0.37210836322741786,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+94,Bristol-Myers Squibb,Pharmaceutical,456869.7,7.3,34100,"New York City, New York",133979384.16422288,0.3701160202612084,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+95,Ingram Micro Holding,Technology,453880.6560000001,-0.1,26125,"Irvine, California",173734222.39234453,0.3676945572715078,Low Revenue,Small Employer,Negative Growth,Rank 51-100
+96,General Dynamics,Aerospace and defense,451345.64400000003,12.9,117000,"Reston, Virginia",38576550.76923077,0.3656409114447996,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+97,Coca-Cola,Beverage,445149.999,2.9,69700,"Atlanta, Georgia",63866570.87517934,0.36062173974146433,Low Revenue,Small Employer,Low Growth,Rank 51-100
+98,TIAA,Financials,444062.21400000004,2.6,15623,"New York City, New York",284236199.19349676,0.35974051112179484,Low Revenue,Small Employer,Low Growth,Rank 51-100
+99,Travelers,Insurance,439115.157,12.2,34000,"New York City, New York",129151516.76470588,0.355732836616689,Low Revenue,Small Employer,Moderate Growth,Rank 51-100
+100,Eli Lilly,Pharmaceutical,426061.737,32.0,47000,"Indianapolis, Indiana",90651433.40425532,0.34515809318065444,Low Revenue,Small Employer,High Growth,Rank 51-100
