@@ -92,7 +92,3 @@ This project demonstrates the complete workflow of collecting, cleaning, transfo
 4. Generate or use the company CSV dataset.
 5. Open the EDA notebook.
 6. Run the analysis cells to explore the dataset.
-
-## Author
-
-Add your name and professional GitHub profile here.
